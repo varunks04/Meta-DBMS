@@ -1,1 +1,1 @@
-# Meta-DBMS
+# db-capstone-project
